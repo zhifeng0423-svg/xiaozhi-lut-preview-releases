@@ -1,27 +1,27 @@
 {
-  "version": "1.0.0",
-  "published_at": "2026-10-21T05:32:07+00:00",
+  "version": "1.1.0",
+  "published_at": "2026-10-21T06:12:11+00:00",
   "mandatory": false,
-  "min_supported": "1.0.0",
-  "notes": "首个公开版本：新增消息与更新中心，支持应用内检查、下载和 SHA-256 校验。",
+  "min_supported": "1.1.0",
+  "notes": "小智LUT管家 v1.1.0：全面改名，新增首次桌面快捷方式提示、双平台自动更新、设置迁移与更新安装助手。",
   "files": {
     "windows-x64": {
-      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-windows-x64.exe",
-      "sha256": "18af9b04faa3e36d9559190c348e491888bfdc1ceba71a1e7b64a13207f042a7",
-      "size": 155608480,
-      "filename": "xiaozhi-lut-tool-windows-x64.exe"
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-windows-x64.exe",
+      "sha256": "00fc76815b34f87d5142c76e9e81b859b97ae7dbdc5dbad277d0369adbf1f500",
+      "size": 155612836,
+      "filename": "xiaozhi-lut-manager-windows-x64.exe"
     },
     "macos-arm64": {
-      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-arm64.dmg",
-      "sha256": "b4462b9b51222396922bc74e3b17978a5b54c1042d1046366ff8f92c19a15309",
-      "size": 34254519,
-      "filename": "xiaozhi-lut-tool-macos-arm64.dmg"
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-macos-arm64.dmg",
+      "sha256": "10356b503068e123ed607e8cd4e0d51065b54ed99b729e39478bf871b875f972",
+      "size": 34247980,
+      "filename": "xiaozhi-lut-manager-macos-arm64.dmg"
     },
     "macos-x64": {
-      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-x64.dmg",
-      "sha256": "d28aefea062d89d5cfe4b9b195bbdc7e0ecd23a1215a1ce7597f21967b112bbd",
-      "size": 37327764,
-      "filename": "xiaozhi-lut-tool-macos-x64.dmg"
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-macos-x64.dmg",
+      "sha256": "ad6f55bddfebadc90101f3de8a061f944b6c843ceee48bb2ea38a09f2bf03674",
+      "size": 37235278,
+      "filename": "xiaozhi-lut-manager-macos-x64.dmg"
     }
   }
 }
