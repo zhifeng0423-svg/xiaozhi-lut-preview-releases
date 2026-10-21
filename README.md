@@ -1,14 +1,14 @@
-# 小智 LUT 效果预览工具
+# 小智LUT管家
 
-最新版本：**v1.0.0**
+最新版本：**v1.1.0**
 
 ## 下载
 
 | 系统 | 架构 | 安装包 |
 |---|---|---|
-| Windows | x64 | [xiaozhi-lut-tool-windows-x64.exe](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-windows-x64.exe) |
-| macOS | Apple Silicon | [xiaozhi-lut-tool-macos-arm64.dmg](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-arm64.dmg) |
-| macOS | Intel | [xiaozhi-lut-tool-macos-x64.dmg](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-x64.dmg) |
+| Windows | x64 | [xiaozhi-lut-manager-windows-x64.exe](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-windows-x64.exe) |
+| macOS | Apple Silicon | [xiaozhi-lut-manager-macos-arm64.dmg](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-macos-arm64.dmg) |
+| macOS | Intel | [xiaozhi-lut-manager-macos-x64.dmg](https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-manager-macos-x64.dmg) |
 
 ## 首次打开说明
 
@@ -25,11 +25,11 @@
 ## SHA-256
 
 ```text
-18af9b04faa3e36d9559190c348e491888bfdc1ceba71a1e7b64a13207f042a7  xiaozhi-lut-tool-windows-x64.exe
-b4462b9b51222396922bc74e3b17978a5b54c1042d1046366ff8f92c19a15309  xiaozhi-lut-tool-macos-arm64.dmg
-d28aefea062d89d5cfe4b9b195bbdc7e0ecd23a1215a1ce7597f21967b112bbd  xiaozhi-lut-tool-macos-x64.dmg
+00fc76815b34f87d5142c76e9e81b859b97ae7dbdc5dbad277d0369adbf1f500  xiaozhi-lut-manager-windows-x64.exe
+10356b503068e123ed607e8cd4e0d51065b54ed99b729e39478bf871b875f972  xiaozhi-lut-manager-macos-arm64.dmg
+ad6f55bddfebadc90101f3de8a061f944b6c843ceee48bb2ea38a09f2bf03674  xiaozhi-lut-manager-macos-x64.dmg
 ```
 
 ## 更新说明
 
-首个公开版本：新增消息与更新中心，支持应用内检查、下载和 SHA-256 校验。
+小智LUT管家 v1.1.0：全面改名，新增首次桌面快捷方式提示、双平台自动更新、设置迁移与更新安装助手。
