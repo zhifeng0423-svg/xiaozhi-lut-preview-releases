@@ -1,0 +1,12 @@
+[
+  {
+    "id": "welcome-1.0.0",
+    "level": "info",
+    "title": "欢迎使用小智 LUT 效果预览工具",
+    "body": "如果遇到问题，可以在消息中心查看最新公告；新版本也会在这里提示。",
+    "published_at": "2026-10-21T00:00:00+00:00",
+    "platforms": ["windows", "macos"],
+    "min_version": "1.0.0",
+    "action": null
+  }
+]
