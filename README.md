@@ -25,9 +25,9 @@
 ## SHA-256
 
 ```text
-22fab73d617d2f67d68fb682596d8c96c48d78d36498f52298271658991196f6  xiaozhi-lut-tool-windows-x64.exe
-872fc62e6257ee9a9284dfa73794794d913156e563177cc577f7fb180fc1ad04  xiaozhi-lut-tool-macos-arm64.dmg
-d5cb652853f703dcd58bc2a51e2a237083c925fd52c55b9ea775c66d76ac7393  xiaozhi-lut-tool-macos-x64.dmg
+18af9b04faa3e36d9559190c348e491888bfdc1ceba71a1e7b64a13207f042a7  xiaozhi-lut-tool-windows-x64.exe
+b4462b9b51222396922bc74e3b17978a5b54c1042d1046366ff8f92c19a15309  xiaozhi-lut-tool-macos-arm64.dmg
+d28aefea062d89d5cfe4b9b195bbdc7e0ecd23a1215a1ce7597f21967b112bbd  xiaozhi-lut-tool-macos-x64.dmg
 ```
 
 ## 更新说明
