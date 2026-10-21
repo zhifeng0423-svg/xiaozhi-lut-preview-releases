@@ -1,2 +1,3 @@
-# xiaozhi-lut-preview-releases
-小智 LUT 效果预览工具公开发布与更新清单
+# 小智 LUT 效果预览工具
+
+公开发布仓库，安装包和更新清单正在准备中。
