@@ -1,8 +1,27 @@
 {
   "version": "1.0.0",
-  "published_at": "2026-10-21T00:00:00+00:00",
+  "published_at": "2026-10-21T05:32:07+00:00",
   "mandatory": false,
   "min_supported": "1.0.0",
-  "notes": "首个公开版本准备中。",
-  "files": {}
+  "notes": "首个公开版本：新增消息与更新中心，支持应用内检查、下载和 SHA-256 校验。",
+  "files": {
+    "xiaozhi-lut-tool-windows-x64.exe": {
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-windows-x64.exe",
+      "sha256": "22fab73d617d2f67d68fb682596d8c96c48d78d36498f52298271658991196f6",
+      "size": 155608890,
+      "filename": "xiaozhi-lut-tool-windows-x64.exe"
+    },
+    "xiaozhi-lut-tool-macos-arm64.dmg": {
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-arm64.dmg",
+      "sha256": "872fc62e6257ee9a9284dfa73794794d913156e563177cc577f7fb180fc1ad04",
+      "size": 34255188,
+      "filename": "xiaozhi-lut-tool-macos-arm64.dmg"
+    },
+    "xiaozhi-lut-tool-macos-x64.dmg": {
+      "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-x64.dmg",
+      "sha256": "d5cb652853f703dcd58bc2a51e2a237083c925fd52c55b9ea775c66d76ac7393",
+      "size": 37331123,
+      "filename": "xiaozhi-lut-tool-macos-x64.dmg"
+    }
+  }
 }
