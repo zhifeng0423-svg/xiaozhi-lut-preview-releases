@@ -2,13 +2,20 @@
   {
     "id": "welcome-1.0.0",
     "level": "info",
-    "title": "欢迎使用小智 LUT 效果预览工具",
+    "title": "欢迎使用小智LUT管家",
     "body": "如果遇到问题，可以在消息中心查看最新公告；新版本也会在这里提示。",
     "published_at": "2026-10-21T00:00:00+00:00",
-    "platforms": [
-      "windows",
-      "macos"
-    ],
+    "platforms": ["windows", "macos"],
+    "min_version": "1.0.0",
+    "action": null
+  },
+  {
+    "id": "release-v1.1.0",
+    "level": "info",
+    "title": "小智LUT管家 v1.1.0 已发布",
+    "body": "本次更新：软件改名为小智LUT管家，新增首次桌面快捷方式提示、自动更新替换和用户设置迁移。",
+    "published_at": "2026-10-21T06:12:11+00:00",
+    "platforms": ["windows", "macos"],
     "min_version": "1.0.0",
     "action": null
   }
