@@ -25,9 +25,9 @@
 ## SHA-256
 
 ```text
-00fc76815b34f87d5142c76e9e81b859b97ae7dbdc5dbad277d0369adbf1f500  xiaozhi-lut-manager-windows-x64.exe
-10356b503068e123ed607e8cd4e0d51065b54ed99b729e39478bf871b875f972  xiaozhi-lut-manager-macos-arm64.dmg
-ad6f55bddfebadc90101f3de8a061f944b6c843ceee48bb2ea38a09f2bf03674  xiaozhi-lut-manager-macos-x64.dmg
+f8dc6293014b6ef36904a639617e4278571e50d38f6852d7740b1e9d3655146b  xiaozhi-lut-manager-windows-x64.exe
+d90583013cba209213b9f0ca2345293800ea1649ca63e103bc08596e3eb48e05  xiaozhi-lut-manager-macos-arm64.dmg
+151af5ccd16852889a84a19f8e47395cda54db8b6574fcadf4327a04ea04f563  xiaozhi-lut-manager-macos-x64.dmg
 ```
 
 ## 更新说明
