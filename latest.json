@@ -7,20 +7,20 @@
   "files": {
     "windows-x64": {
       "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-windows-x64.exe",
-      "sha256": "22fab73d617d2f67d68fb682596d8c96c48d78d36498f52298271658991196f6",
-      "size": 155608890,
+      "sha256": "18af9b04faa3e36d9559190c348e491888bfdc1ceba71a1e7b64a13207f042a7",
+      "size": 155608480,
       "filename": "xiaozhi-lut-tool-windows-x64.exe"
     },
     "macos-arm64": {
       "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-arm64.dmg",
-      "sha256": "872fc662e6257ee9a9284dfa73794794d913156e563177cc577f7bf180fc1ad04",
-      "size": 34255188,
+      "sha256": "b4462b9b51222396922bc74e3b17978a5b54c1042d1046366ff8f92c19a15309",
+      "size": 34254519,
       "filename": "xiaozhi-lut-tool-macos-arm64.dmg"
     },
     "macos-x64": {
       "url": "https://github.com/zhifeng0423-svg/xiaozhi-lut-preview-releases/releases/latest/download/xiaozhi-lut-tool-macos-x64.dmg",
-      "sha256": "d5cb652853f703dcd58bc2a51e2a237083c925fd52c55b9ea775c66d76ac7393",
-      "size": 37331123,
+      "sha256": "d28aefea062d89d5cfe4b9b195bbdc7e0ecd23a1215a1ce7597f21967b112bbd",
+      "size": 37327764,
       "filename": "xiaozhi-lut-tool-macos-x64.dmg"
     }
   }
